@@ -1,7 +1,6 @@
 ---
 name: "cs50x"
 description: "Harvard CS50x - Introduction to Computer Science. Use when learning programming fundamentals, C/Python/SQL, algorithms, data structures, or web development basics. Covers computational thinking, abstraction, algorithms, and building web apps."
-compatibility: opencode
 metadata:
   university: "Harvard University"
   level: "beginner"

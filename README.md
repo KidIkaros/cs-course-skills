@@ -1,6 +1,6 @@
 # University CS Course Skills
 
-Free computer science courses from top universities, converted into [OpenCode](https://opencode.ai) skills for AI-assisted learning.
+Free computer science courses from top universities, converted into [Agent Skills](https://agentskills.io) for AI-assisted learning. Works with Claude Code, OpenCode, Cursor, Copilot, Gemini CLI, and [30+ other agents](https://agentskills.io).
 
 ## What's Inside
 
@@ -20,7 +20,7 @@ Free computer science courses from top universities, converted into [OpenCode](h
 
 ### Installation
 
-Copy the skills you want to your OpenCode skills directory:
+Copy the skills you want to your agent's skills directory:
 
 ```bash
 # Install all skills
@@ -31,9 +31,19 @@ cp -r skills/cs50x ~/.opencode/skills/
 cp -r skills/stanford-cs229 ~/.opencode/skills/
 ```
 
+#### Agent-Specific Paths
+
+| Agent | Skills Directory |
+|-------|------------------|
+| **Claude Code** | `~/.claude/skills/` |
+| **OpenCode** | `~/.opencode/skills/` |
+| **Cursor** | Project `.cursor/skills/` |
+| **Copilot** | Project `.github/copilot/skills/` |
+| **Gemini CLI** | `~/.gemini/skills/` |
+
 ### Usage
 
-Load any skill in OpenCode:
+Load any skill in your agent:
 
 ```
 skill({ name: "cs50x" })
@@ -118,4 +128,4 @@ MIT
 
 ## Acknowledgments
 
-Course materials are from the respective universities under their open licenses. This project organizes them as OpenCode skills for AI-assisted learning.
+Course materials are from the respective universities under their open licenses. This project organizes them as Agent Skills for AI-assisted learning.

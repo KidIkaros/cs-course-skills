@@ -1,7 +1,6 @@
 ---
 name: "cs50p"
 description: "Harvard CS50P - Introduction to Programming with Python. Use when learning Python programming, covering functions, data structures, OOP, testing, regular expressions, and file handling. No prior experience needed."
-compatibility: opencode
 metadata:
   university: "Harvard University"
   level: "beginner"

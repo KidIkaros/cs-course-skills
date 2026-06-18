@@ -1,7 +1,6 @@
 ---
 name: "stanford-cs161"
 description: "Stanford CS 161 - Design and Analysis of Algorithms. Use when studying algorithm design paradigms (divide-and-conquer, DP, greedy), data structures (BSTs, heaps, hash tables), graph algorithms, or amortized analysis."
-compatibility: opencode
 metadata:
   university: "Stanford University"
   level: "intermediate"

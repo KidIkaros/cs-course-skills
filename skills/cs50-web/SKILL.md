@@ -1,7 +1,6 @@
 ---
 name: "cs50-web"
 description: "Harvard CS50 Web - Web Programming with Python and JavaScript. Use when building web applications with Django, React, JavaScript, SQL, and modern web development practices. Requires prior programming experience."
-compatibility: opencode
 metadata:
   university: "Harvard University"
   level: "intermediate"

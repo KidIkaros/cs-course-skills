@@ -1,7 +1,6 @@
 ---
 name: "cornell-cs4320"
 description: "Cornell CS 4320 - Introduction to Database Systems. Use when learning SQL, relational databases, query optimization, transactions, ACID, NoSQL, or designing database schemas. Covers both theory and practical systems."
-compatibility: opencode
 metadata:
   university: "Cornell University"
   level: "intermediate-advanced"

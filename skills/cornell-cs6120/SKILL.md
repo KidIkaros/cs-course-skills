@@ -1,7 +1,6 @@
 ---
 name: "cornell-cs6120"
 description: "Cornell CS 6120 - Advanced Compilers. Use when learning compiler implementation, intermediate representations, data flow analysis, SSA, LLVM, optimizations, memory management, JIT compilation, and parallelism. Self-guided PhD-level course."
-compatibility: opencode
 metadata:
   university: "Cornell University"
   level: "advanced"

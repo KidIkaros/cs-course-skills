@@ -1,7 +1,6 @@
 ---
 name: "gt-ml"
 description: "Georgia Tech CS 7646 - Machine Learning for Trading. Use when learning ML applied to financial trading: technical analysis, classification algorithms, ensemble methods, reinforcement learning, and portfolio optimization."
-compatibility: opencode
 metadata:
   university: "Georgia Tech"
   level: "intermediate"

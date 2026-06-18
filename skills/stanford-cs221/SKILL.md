@@ -1,7 +1,6 @@
 ---
 name: "stanford-cs221"
 description: "Stanford CS 221 - Artificial Intelligence: Principles and Techniques. Use when learning AI fundamentals including search, machine learning, MDPs, constraint satisfaction, graphical models, and logic."
-compatibility: opencode
 metadata:
   university: "Stanford University"
   level: "intermediate-advanced"

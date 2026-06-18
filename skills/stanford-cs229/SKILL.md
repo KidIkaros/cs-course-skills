@@ -1,7 +1,6 @@
 ---
 name: "stanford-cs229"
 description: "Stanford CS 229 - Machine Learning. Use when studying supervised learning, SVMs, kernel methods, clustering, EM, PCA, HMMs, or the mathematical foundations of ML. Rigorous, math-heavy course."
-compatibility: opencode
 metadata:
   university: "Stanford University"
   level: "advanced"

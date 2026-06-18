@@ -1,7 +1,6 @@
 ---
 name: "gt-networking"
 description: "Georgia Tech CS 6250 - Computer Networking. Use when learning network protocols, TCP/IP, routing, DNS, HTTP, network security, or wireless networks. Comprehensive coverage of internet infrastructure."
-compatibility: opencode
 metadata:
   university: "Georgia Tech"
   level: "intermediate"

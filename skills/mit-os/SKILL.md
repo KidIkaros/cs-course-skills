@@ -1,7 +1,6 @@
 ---
 name: "mit-os"
 description: "MIT 6.1810 - Operating System Engineering. Use when learning OS design and implementation: virtual memory, file systems, threads, kernels, interrupts, system calls, and IPC. Hands-on xv6 labs."
-compatibility: opencode
 metadata:
   university: "MIT"
   level: "advanced"

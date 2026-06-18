@@ -1,7 +1,6 @@
 ---
 name: "gt-os"
 description: "Georgia Tech CS 6200 - Introduction to Operating Systems. Use when learning process management, threading, synchronization, memory management, virtual memory, file systems, or I/O systems. Systems-level course."
-compatibility: opencode
 metadata:
   university: "Georgia Tech"
   level: "intermediate-advanced"

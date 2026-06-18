@@ -1,7 +1,6 @@
 ---
 name: "cs50-ai"
 description: "Harvard CS50 AI - Introduction to Artificial Intelligence with Python. Use when learning AI fundamentals including search algorithms, logic, optimization, machine learning, neural networks, and NLP. Requires Python knowledge."
-compatibility: opencode
 metadata:
   university: "Harvard University"
   level: "intermediate"

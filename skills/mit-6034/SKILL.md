@@ -1,7 +1,6 @@
 ---
 name: "mit-6034"
 description: "MIT 6.034 - Artificial Intelligence. Use when learning AI fundamentals: search, rule-based systems, constraint satisfaction, probabilistic inference, machine learning (kNN, decision trees, neural nets, boosting), and planning. Taught by Patrick Winston."
-compatibility: opencode
 metadata:
   university: "MIT"
   level: "intermediate"

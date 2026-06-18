@@ -1,7 +1,6 @@
 ---
 name: "mit-6006"
 description: "MIT 6.006 - Introduction to Algorithms. Use when learning algorithm design, computational complexity, sorting, graph algorithms (BFS, DFS, Dijkstra's), dynamic programming, or NP-completeness. Classic MIT course with video lectures."
-compatibility: opencode
 metadata:
   university: "MIT"
   level: "intermediate"

@@ -1,7 +1,6 @@
 ---
 name: "princeton-algos"
 description: "Princeton COS 226 - Algorithms and Data Structures by Sedgewick & Wayne. Use when learning sorting, searching, graph algorithms, string processing, or advanced algorithms. Includes complete Java implementations."
-compatibility: opencode
 metadata:
   university: "Princeton University"
   level: "intermediate"

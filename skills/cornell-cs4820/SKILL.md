@@ -1,7 +1,6 @@
 ---
 name: "cornell-cs4820"
 description: "Cornell CS 4820 - Introduction to Analysis of Algorithms. Use when studying algorithm design techniques (greedy, divide-and-conquer, DP, network flow), NP-completeness, approximation algorithms, or computational complexity theory."
-compatibility: opencode
 metadata:
   university: "Cornell University"
   level: "advanced"

@@ -1,7 +1,6 @@
 ---
 name: "berkeley-cs61c"
 description: "Berkeley CS 61C - Great Ideas in Computer Architecture. Use when learning C programming, RISC-V assembly, digital logic, processor design, pipelining, caches, parallelism, or virtual memory. Systems fundamentals."
-compatibility: opencode
 metadata:
   university: "UC Berkeley"
   level: "intermediate"
