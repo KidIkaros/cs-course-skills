@@ -4,15 +4,13 @@
 
 ### Official Course Page
 - [MIT OCW 6.1810](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/)
-- [Lecture Videos](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/pages/video-lectures/)
-- [Assignments](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/pages/assignments/)
-- [Readings](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/pages/readings/)
+- [Course Pages](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/pages)
 
 ### xv6 Resources
-- [xv6 Book (RISC-V)](https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev1.pdf) - Primary textbook
 - [xv6 Source Code](https://github.com/mit-pdos/xv6-riscv) - GitHub repository
-- [xv6 Documentation](https://pdos.csail.mit.edu/6.828/2023/xv6/) - Additional docs
-- [xv6 Labs Guide](https://pdos.csail.mit.edu/6.828/2023/labs/) - Lab instructions
+- [xv6 Documentation](https://pdos.csail.mit.edu/6.828/2024/xv6/) - Additional docs
+- [xv6 Labs Guide](https://pdos.csail.mit.edu/6.828/2024/labs/) - Lab instructions
+- [MIT 6.828 Course](https://pdos.csail.mit.edu/6.828/2024/) - Related course page
 
 ## Books and Textbooks
 
@@ -40,13 +38,13 @@
 - [OS Course at MIT](https://pdos.csail.mit.edu/6.828/) - Related MIT course
 
 ### Video Lectures
-- [MIT 6.1810 Lectures](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/pages/video-lectures/)
+- [MIT 6.1810 Lectures](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/)
 - [Ben Eater's breadboard computer](https://www.youtube.com/playlist?list=PLowKtXNTBypFtan4Zddo-MI0Q0G7AGURz) - Understanding computer architecture
 - [Nand2Tetris](https://www.nand2tetris.org/) - From logic gates to OS
 
 ### Interactive Resources
 - [PintOS](https://web.stanford.edu/class/cs140/) - Another teaching OS
-- [JOS](https://pdos.csail.mit.edu/6.828/jos/) - MIT's other teaching OS
+- [JOS](https://pdos.csail.mit.edu/6.828/) - MIT's other teaching OS
 - [Writing a Simple Operating System](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - From scratch guide
 
 ## Development Tools

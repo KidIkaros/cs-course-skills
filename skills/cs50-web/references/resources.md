@@ -5,9 +5,8 @@
 | Resource | URL |
 |----------|-----|
 | CS50 Web Course Site | https://cs50.harvard.edu/web/ |
-| CS50 Web Lectures (YouTube) | https://www.youtube.com/playlist?list=plh qs-6gv4jknr5r0r5dlr05p-7bpm8jh |
-| CS50 Web Notes | https://cs50.harvard.edu/web/notes/ |
-| CS50 Web Source Code | https://github.com/cs50/web |
+| CS50 Web Lectures (YouTube) | https://www.youtube.com/c/cs50 |
+| CS50 Web Source Code | https://cdn.cs50.net/web/ |
 
 ## Django
 
@@ -17,7 +16,7 @@
 | Django Tutorial (Official) | https://docs.djangoproject.com/en/stable/intro/tutorial01/ |
 | Django Best Practices | https://django-best-practices.readthedocs.io/ |
 | Django REST Framework | https://www.django-rest-framework.org/ |
-| Two Scoops of Django (Book) | https://www.twoscoopspress.com/products/two-scoops-of-django-3-x/ |
+| Two Scoops of Django (Book) | https://www.two-scoopspress.com/ |
 | Django Girls Tutorial | https://tutorial.djangogirls.org/ |
 | Django for Beginners (Book) | https://djangoforbeginners.com/ |
 
@@ -101,7 +100,7 @@
 | Jest Documentation | https://jestjs.io/docs/getting-started |
 | React Testing Library | https://testing-library.com/docs/react-testing-library/intro/ |
 | pytest Documentation | https://docs.pytest.org/ |
-| Test-Driven Development with Python | https://www.cosmicpython.com/book/ |
+| Test-Driven Development with Python | https://www.cosmicpython.com/ |
 
 ## Deployment
 
@@ -136,7 +135,7 @@
 
 | Resource | URL |
 |----------|-----|
-| CS50 Discord | https://cs50.harvard.edu/discord |
+| CS50 Discord | https://discord.gg/cs50 |
 | r/django (Reddit) | https://www.reddit.com/r/django/ |
 | r/reactjs (Reddit) | https://www.reddit.com/r/reactjs/ |
 | Stack Overflow | https://stackoverflow.com/ |

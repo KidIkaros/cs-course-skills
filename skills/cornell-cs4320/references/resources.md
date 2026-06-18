@@ -6,7 +6,6 @@
 |----------|-----|
 | Course Page (Fall 2021) | https://www.cs.cornell.edu/courses/cs4320/2021fa/ |
 | Video Lectures | http://www.databaselecture.com |
-| CS 4320 Archive (Spring 2020) | https://www.cs.cornell.edu/courses/cs4320/2020sp/ |
 
 ---
 

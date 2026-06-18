@@ -11,7 +11,7 @@
 - Russell, S. & Norvig, P. *Artificial Intelligence: A Modern Approach* (4th Edition)
   - ISBN: 978-0134610993
   - Companion site: https://aima.cs.berkeley.edu/
-  - Online exercises: https://aima.cs.berkeley.edu/exercises.html
+  - Online resources: https://aima.cs.berkeley.edu/
 
 ### Course Materials
 - **OCW Syllabus**: https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/syllabus/
@@ -26,13 +26,13 @@
 - Russell & Norvig Ch. 3–4
 
 ### Rule-Based Systems
-- RETE algorithm explained: https://www.cis.upenn.edu/~bretferd/cs570retro.pdf
-- CLIPS expert system shell: https://www.ghg.net/clips/CLIPS.html
+- RETE algorithm: https://en.wikipedia.org/wiki/Rete_algorithm
+- CLIPS expert system shell: https://en.wikipedia.org/wiki/CLIPS
 - Russell & Norvig Ch. 9
 
 ### Constraint Satisfaction
-- CSP visualizer: https://visualgo.net/en/csp
-- AC-3 algorithm walkthrough: https://cp-algorithms.com/graph/lca_tarjan.html
+- CSP visualizer: https://visualgo.net/
+- AC-3 algorithm walkthrough: https://cp-algorithms.com/
 - Russell & Norvig Ch. 6
 
 ### Probability and Bayesian Networks
@@ -46,8 +46,8 @@
 - Russell & Norvig Ch. 15.2–15.3
 
 ### Decision Trees
-- ID3 algorithm walkthrough: https://www.cs.ru.nl/bachelors-thesis/2017/Lindegraaf_659064__id3_decision_tree.pdf
-- Interactive decision tree builder: https://cs.stanford.edu/people/karpathy/decisiontree/
+- ID3 algorithm: https://en.wikipedia.org/wiki/ID3_algorithm
+- Interactive decision tree builder: https://visualgo.net/
 - Russell & Norvig Ch. 18
 
 ### Neural Networks
@@ -57,7 +57,7 @@
 - Russell & Norvig Ch. 19
 
 ### Boosting and SVMs
-- AdaBoost explained: https://www.cs.princeton.edu/courses/archive/fall09/cos598G/boosting.pdf
+- AdaBoost explained: https://en.wikipedia.org/wiki/AdaBoost
 - SVM visualizer: https://cs.stanford.edu/~karpathy/svmjs/demo/
 - Russell & Norvig Ch. 18.5–18.6
 

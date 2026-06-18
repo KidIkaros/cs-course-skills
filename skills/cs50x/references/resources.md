@@ -4,19 +4,18 @@
 - [CS50x Course Website](https://cs50.harvard.edu/x/) - Main course page
 - [CS50 IDE (VS Code for CS50)](https://ide.cs50.io/) - Online development environment
 - [CS50 Manual](https://manual.cs50.io/) - Documentation for CS50 libraries
-- [CS50 Duck](https://cs50.harvard.edu/x/2024/shorts/cs50_duck/) - AI programming assistant
 - [CS50 Discord](https://discord.gg/cs50) - Community support
 - [CS50 Reddit](https://www.reddit.com/r/cs50/) - Discussion forum
 
 ## Video Lectures
 - [Full Lectures](https://cs50.harvard.edu/x/2024/weeks/) - All weekly lectures
 - [Shorts](https://cs50.harvard.edu/x/2024/shorts/) - Concept explanations
-- [Walkthroughs](https://cs50.harvard.edu/x/2024/tracks/) - Problem set guides
+- [Walkthroughs](https://cs50.harvard.edu/x/2024/psets/) - Problem set guides
 
 ## Practice Platforms
 - [CS50 Problems](https://cs50.harvard.edu/x/2024/psets/) - Official problem sets
-- [CS50 Lab](https://cs50.harvard.edu/x/2024/labs/) - Guided coding exercises
-- [CS50 Study](https://study.cs50.io/) - Self-study questions and flashcards
+- [CS50 Practice](https://cs50.harvard.edu/x/2024/psets/) - Practice problems
+- [CS50 Study](https://cs50.harvard.edu/x/) - Self-study questions and flashcards
 
 ## Books and Reading
 - [C Programming: A Modern Approach](https://knking.com/books/c2/index.html) - Comprehensive C reference
@@ -62,7 +61,7 @@
 
 ## Tools and Editors
 - [Visual Studio Code](https://code.microsoft.com/) - Code editor
-- [VS Code Extensions for CS50](https://cs50.harvard.edu/x/2024/vscode/) - Required extensions
+- [VS Code for CS50](https://ide.cs50.io/) - Online IDE for CS50
 - [Git Tutorial](https://www.atlassian.com/git/tutorials) - Version control basics
 - [GitHub Desktop](https://desktop.github.com/) - Git GUI client
 
@@ -70,7 +69,7 @@
 - [CS50 Study Group](https://www.facebook.com/groups/cs50/) - Facebook group
 - [CS50 Stack Exchange](https://cs50.stackexchange.com/) - Q&A forum
 - [CS50 YouTube](https://www.youtube.com/c/cs50) - Official channel
-- [CS50 Podcast](https://cs50.harvard.edu/podcast/) - Course podcast
+- [CS50 YouTube](https://www.youtube.com/c/cs50) - Lectures and talks
 
 ## Debugging and Tools
 - [Valgrind](https://valgrind.org/) - Memory debugging (C)

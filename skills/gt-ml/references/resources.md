@@ -4,8 +4,8 @@
 
 ### Official
 - **Udacity Course**: https://www.udacity.com/course/machine-learning-for-trading--ud501
-- **Georgia Tech OMS CS**: https://oms.gatech.edu/
-- **Prof. Tucker Balch**: https://www.cc.gatech.edu/~balch/
+- **Georgia Tech OMSCS**: https://omscs.gatech.edu/
+- **Georgia Tech College of Computing**: https://www.cc.gatech.edu/
 
 ### Lecture Notes & Slides
 - Course slides available on Udacity platform
@@ -120,8 +120,7 @@
 
 #### GitHub Repositories
 - **CS 7646 Course Materials**: Search "CS 7646" on GitHub
-- **QuantSoftware Toolkit**: https://github.com/quantopian/qstk
-- **Zipline**: https://github.com/quantopian/zipline
+- **Zipline**: https://github.com/stefan-jansen/zipline-reloaded
 - **Backtrader Examples**: https://github.com/mementum/backtrader/tree/master/samples
 
 ---

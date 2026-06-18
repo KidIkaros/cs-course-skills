@@ -8,7 +8,6 @@
 | Textbook (Free) | https://algs4.cs.princeton.edu/home/ | *Algorithms* 4th Edition by Sedgewick & Wayne |
 | Java Code Library | https://algs4.cs.princeton.edu/code/ | Complete Java implementations |
 | Lecture Slides | https://algs4.cs.princeton.edu/lectures/ | PDF slides for all topics |
-| Exercises | https://algs4.cs.princeton.edu/exercises/ | Self-study exercises by chapter |
 
 ## Textbook
 
@@ -74,6 +73,5 @@ Course:     https://algs4.cs.princeton.edu/
 Textbook:   https://algs4.cs.princeton.edu/home/
 Code:       https://algs4.cs.princeton.edu/code/
 Slides:     https://algs4.cs.princeton.edu/lectures/
-Exercises:  https://algs4.cs.princeton.edu/exercises/
 Java API:   https://algs4.cs.princeton.edu/stdlib/
 ```

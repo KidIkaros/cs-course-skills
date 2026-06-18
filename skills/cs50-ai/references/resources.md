@@ -6,7 +6,7 @@
 - **Lecture Videos**: https://cs50.harvard.edu/ai/2024/
 - **Shorts**: Supplementary videos on specific topics
 - **Problem Sets**: Hands-on projects with autograder
-- **Source Code**: https://github.com/cs50/ai
+- **Source Code**: https://cdn.cs50.net/ai/
 
 ## Lecture Notes & Summaries
 
@@ -94,7 +94,7 @@
 ## GitHub Repositories
 
 ### Course Materials
-- [cs50/ai](https://github.com/cs50/ai) - Official CS50 AI code
+- [cs50/ai](https://cdn.cs50.net/ai/) - Official CS50 AI code
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - AIMA implementations
 
 ### Project Examples
@@ -123,7 +123,7 @@
 ## Communities
 
 ### Forums
-- [CS50 Discord](https://cs50.github.io/cs50ai/) - Course community
+- [CS50 Discord](https://discord.gg/cs50) - Course community
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 - [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 - [Stack Overflow](https://stackoverflow.com/) - Technical questions

@@ -32,13 +32,13 @@
 - **RISC-V Specifications**: https://riscv.org/technical/specifications/
 - **RISC-V ISA Simulator (RARS)**: https://github.com/TheThirdOne/rars
   - Java-based RISC-V simulator for running assembly
-- **Venus**: https://web.cs61c.org/sp26/tools/venus/
+- **Venus**: https://venus.cs61c.org/
   - Browser-based RISC-V simulator (CS 61C specific)
 - **RISC-V Green Card**: Reference card for RV32I instructions
 - **RISC-V Instruction Set Cheat Sheet**: https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/
 
 ### C Programming
-- **The GNU C Library Manual**: https://www.gnu.org/software/libc/manual/
+- **The GNU C Library Manual**: https://www.gnu.org/software/libc/
 - **GDB Documentation**: https://sourceware.org/gdb/documentation/
 - **GDB Quick Reference**: https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
 - **cdecl**: http://cdecl.org/ — Decipher C declarations
@@ -56,14 +56,12 @@
 - **Patterson & Hennessy Lecture Slides**: Available via textbook publisher
 
 ### Caches & Memory
-- **Cache Visualizer**: https://cs61c.org/sp26/tools/cache/
 - **Cache Lab Guide**: Available on course website
 - **Memory Hierarchy Tutorial**: https://www.cs.cornell.edu/courses/cs3410/2022sp/
 
 ### Parallelism
 - **OpenMP Reference**: https://www.openmp.org/specifications/
 - **POSIX Threads Tutorial**: https://beej.us/guide/bgnet/
-- **Pthreads Tutorial**: https://users.cs.utah.edu/~chaiken/CPS210/articles/pthreads.html
 
 ### Virtual Memory
 - **Virtual Memory Paper**: (check course readings)

@@ -63,7 +63,7 @@
 ## Video Tutorials
 
 ### YouTube Channels
-- **Corey Schafer**: https://www.youtube.com/user/schaaborern (Python tutorials)
+- **Corey Schafer**: https://www.youtube.com/c/Coreyms (Python tutorials)
 - **Tech With Tim**: https://www.youtube.com/techwithtim (Python projects)
 - **Programming with Mosh**: https://www.youtube.com/programmingwithmosh
 - **sentdex**: https://www.youtube.com/sentdex (Python programming)
@@ -110,7 +110,7 @@
 ## Community and Support
 
 ### Forums and Discussion
-- **CS50 Discord**: https://cs50.ly/discord
+- **CS50 Discord**: https://discord.gg/cs50
 - **Reddit r/learnpython**: https://www.reddit.com/r/learnpython/
 - **Reddit r/Python**: https://www.reddit.com/r/Python/
 - **Stack Overflow**: https://stackoverflow.com/questions/tagged/python
